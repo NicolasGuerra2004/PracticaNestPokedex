@@ -25,6 +25,8 @@ docker-compose up -d
 http://localhost:3000/api/v2/seed
 ```
 
+
+
 ## Stack usado
 * MongoDB
 * Nest
